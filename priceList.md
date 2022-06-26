@@ -7,3 +7,4 @@ Cennik:
 -masło 1,75 euro za kostkę
 -mleko 0,80 euro za litr.
 -jogurty owocowe 1 euro za 4ry małe opakowania.
+-mojito 4 euro 
